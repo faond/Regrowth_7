@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: cafd850f4bf5c4b37a0d04b654ed2cbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1044150490067291135
+    second: leaf_coin_0
+  - first:
+      213: -1092557238829045928
+    second: leaf_coin_1
+  - first:
+      213: 3906836399241891999
+    second: leaf_coin_2
+  - first:
+      213: 7773406216483830277
+    second: leaf_coin_3
+  - first:
+      213: -1335598133758597670
+    second: leaf_coin_4
+  - first:
+      213: -1546435432301657736
+    second: leaf_coin_5
+  - first:
+      213: -2500576935836800056
+    second: leaf_coin_6
+  - first:
+      213: 672180937409462288
+    second: leaf_coin_7
+  - first:
+      213: 852550932846939105
+    second: leaf_coin_8
+  - first:
+      213: -5429772064418708864
+    second: leaf_coin_9
+  - first:
+      213: 561825317409390131
+    second: leaf_coin_10
+  - first:
+      213: -3704616407483893675
+    second: leaf_coin_11
+  - first:
+      213: 938937836533713530
+    second: leaf_coin_12
+  - first:
+      213: -6670233052698584658
+    second: leaf_coin_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leaf_coin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1043d7359ae6281f0800000000000000
+      internalID: -1044150490067291135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85720dadaf476d0f0800000000000000
+      internalID: -1092557238829045928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90116c710fd73630800000000000000
+      internalID: 3906836399241891999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af454c4cfa0eb60800000000000000
+      internalID: 7773406216483830277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5e4aad290077de0800000000000000
+      internalID: -1335598133758597670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871059dea25f98ae0800000000000000
+      internalID: -1546435432301657736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cba9e5868a2c4dd0800000000000000
+      internalID: -2500576935836800056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010841f4001145900800000000000000
+      internalID: 672180937409462288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb05417e8ed4db00800000000000000
+      internalID: 852550932846939105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_9
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082cbf8531395a4b0800000000000000
+      internalID: -5429772064418708864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_10
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ef10646210cc700800000000000000
+      internalID: 561825317409390131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_11
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b6da510f869cc0800000000000000
+      internalID: -3704616407483893675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_12
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a04c4dcf6c70d00800000000000000
+      internalID: 938937836533713530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaf_coin_13
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 133.35715
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9d4d401629e63a0800000000000000
+      internalID: -6670233052698584658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

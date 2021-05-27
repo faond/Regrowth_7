@@ -1,0 +1,612 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-05-27T17:34:32.569+02:00
+  initializedAtString: 2021-05-27T17:34:15.309+02:00
+  entries:
+  - path: Library/ArtifactDB
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/01/01ee62b54ebc1601f3e9575cc4f0196e
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/01/01ee62b54ebc1601f3e9575cc4f0196e
+    projectPath: Library/Artifacts/01/01ee62b54ebc1601f3e9575cc4f0196e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/05/054db638db6bbd9fdcdeb475bd35dd2f
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/05/054db638db6bbd9fdcdeb475bd35dd2f
+    projectPath: Library/Artifacts/05/054db638db6bbd9fdcdeb475bd35dd2f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/07/072a12750ad7e5d2bfd81a90bec67e0e
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/07/072a12750ad7e5d2bfd81a90bec67e0e
+    projectPath: Library/Artifacts/07/072a12750ad7e5d2bfd81a90bec67e0e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0d/0d1e663bcb1e82bda20e737d62c94e4d
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/0d/0d1e663bcb1e82bda20e737d62c94e4d
+    projectPath: Library/Artifacts/0d/0d1e663bcb1e82bda20e737d62c94e4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0d/0db5b938db1f2a2674f660126ee6ee4d
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/0d/0db5b938db1f2a2674f660126ee6ee4d
+    projectPath: Library/Artifacts/0d/0db5b938db1f2a2674f660126ee6ee4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/0f/0fa11cbdb08adcf0a6478c126f5bffc8
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/0f/0fa11cbdb08adcf0a6478c126f5bffc8
+    projectPath: Library/Artifacts/0f/0fa11cbdb08adcf0a6478c126f5bffc8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/13/131dc01d9b46d1d8cad6f027798f6dd4
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/13/131dc01d9b46d1d8cad6f027798f6dd4
+    projectPath: Library/Artifacts/13/131dc01d9b46d1d8cad6f027798f6dd4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/17/1731387e7029159ddc588294fcc61ae1
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/17/1731387e7029159ddc588294fcc61ae1
+    projectPath: Library/Artifacts/17/1731387e7029159ddc588294fcc61ae1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1d/1d47290b8bded3afc790a2661c5b3e19
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/1d/1d47290b8bded3afc790a2661c5b3e19
+    projectPath: Library/Artifacts/1d/1d47290b8bded3afc790a2661c5b3e19
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/1f/1f4cf29b3f82b51815c5b4acdd056396
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/1f/1f4cf29b3f82b51815c5b4acdd056396
+    projectPath: Library/Artifacts/1f/1f4cf29b3f82b51815c5b4acdd056396
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/23/23a6d4aec8c7b032eace7abb7edbc266
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/23/23a6d4aec8c7b032eace7abb7edbc266
+    projectPath: Library/Artifacts/23/23a6d4aec8c7b032eace7abb7edbc266
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/26/2652ac191469e931bebe2e869898e348
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/26/2652ac191469e931bebe2e869898e348
+    projectPath: Library/Artifacts/26/2652ac191469e931bebe2e869898e348
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/27/27513fe009dc5851114b89900e34a16f
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/27/27513fe009dc5851114b89900e34a16f
+    projectPath: Library/Artifacts/27/27513fe009dc5851114b89900e34a16f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/28/281668d2e962f7e8ac2dda0ca8083e25
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/28/281668d2e962f7e8ac2dda0ca8083e25
+    projectPath: Library/Artifacts/28/281668d2e962f7e8ac2dda0ca8083e25
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2d/2da415039875c74c91ce634496b68927
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/2d/2da415039875c74c91ce634496b68927
+    projectPath: Library/Artifacts/2d/2da415039875c74c91ce634496b68927
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2f/2f22a69461b0484dc7718caf223c58b0
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/2f/2f22a69461b0484dc7718caf223c58b0
+    projectPath: Library/Artifacts/2f/2f22a69461b0484dc7718caf223c58b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/32/326e8d3787247f2ed392c369cad1f7b9
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/32/326e8d3787247f2ed392c369cad1f7b9
+    projectPath: Library/Artifacts/32/326e8d3787247f2ed392c369cad1f7b9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/33/33a7080c35cd4022a0777111799601b7
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/33/33a7080c35cd4022a0777111799601b7
+    projectPath: Library/Artifacts/33/33a7080c35cd4022a0777111799601b7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/38/38e48e4162a40e04367f2f6d2734c296
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/38/38e48e4162a40e04367f2f6d2734c296
+    projectPath: Library/Artifacts/38/38e48e4162a40e04367f2f6d2734c296
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/39/399ca280e30012747996e779a46ff465
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/39/399ca280e30012747996e779a46ff465
+    projectPath: Library/Artifacts/39/399ca280e30012747996e779a46ff465
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3a/3aa837d592f91c59833f341935d4705a
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/3a/3aa837d592f91c59833f341935d4705a
+    projectPath: Library/Artifacts/3a/3aa837d592f91c59833f341935d4705a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3d/3dba7e9d2a3de067b3c71eaf97559fa5
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/3d/3dba7e9d2a3de067b3c71eaf97559fa5
+    projectPath: Library/Artifacts/3d/3dba7e9d2a3de067b3c71eaf97559fa5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/44/44dde61fd09cc8d1b194f4268231387b
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/44/44dde61fd09cc8d1b194f4268231387b
+    projectPath: Library/Artifacts/44/44dde61fd09cc8d1b194f4268231387b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/45/4599d629b3deb219982b562f44e560d4
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/45/4599d629b3deb219982b562f44e560d4
+    projectPath: Library/Artifacts/45/4599d629b3deb219982b562f44e560d4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4d/4dee4d9471064d0cc27983cb50a5652b
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/4d/4dee4d9471064d0cc27983cb50a5652b
+    projectPath: Library/Artifacts/4d/4dee4d9471064d0cc27983cb50a5652b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/52/522a13bfa0b1b47cd35afe157285e495
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/52/522a13bfa0b1b47cd35afe157285e495
+    projectPath: Library/Artifacts/52/522a13bfa0b1b47cd35afe157285e495
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/53/532755edbeaf97b433866385445a5661
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/53/532755edbeaf97b433866385445a5661
+    projectPath: Library/Artifacts/53/532755edbeaf97b433866385445a5661
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/56/56a296ade91cc5856b97aee434857a8a
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/56/56a296ade91cc5856b97aee434857a8a
+    projectPath: Library/Artifacts/56/56a296ade91cc5856b97aee434857a8a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/59/599418267b82ddde60ab068441959b97
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/59/599418267b82ddde60ab068441959b97
+    projectPath: Library/Artifacts/59/599418267b82ddde60ab068441959b97
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/5e/5e516bd83998f34358201134296c64b7
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/5e/5e516bd83998f34358201134296c64b7
+    projectPath: Library/Artifacts/5e/5e516bd83998f34358201134296c64b7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/60/608cc5dc1416cdfbf152e84868f8a8dc
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/60/608cc5dc1416cdfbf152e84868f8a8dc
+    projectPath: Library/Artifacts/60/608cc5dc1416cdfbf152e84868f8a8dc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/67/677ddbb34d7d7980aca5475102005f59
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/67/677ddbb34d7d7980aca5475102005f59
+    projectPath: Library/Artifacts/67/677ddbb34d7d7980aca5475102005f59
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/67/67b39a4ccbe325d0f1474bd0b1ab8363
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/67/67b39a4ccbe325d0f1474bd0b1ab8363
+    projectPath: Library/Artifacts/67/67b39a4ccbe325d0f1474bd0b1ab8363
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/68/68ba1c7640d22314249b2e637485396d
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/68/68ba1c7640d22314249b2e637485396d
+    projectPath: Library/Artifacts/68/68ba1c7640d22314249b2e637485396d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6b/6b9043b20cb96d50d9ed3c350d184214
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/6b/6b9043b20cb96d50d9ed3c350d184214
+    projectPath: Library/Artifacts/6b/6b9043b20cb96d50d9ed3c350d184214
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/6d/6d60aa4f8c71c6ca73dd179ddbfdc3e3
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/6d/6d60aa4f8c71c6ca73dd179ddbfdc3e3
+    projectPath: Library/Artifacts/6d/6d60aa4f8c71c6ca73dd179ddbfdc3e3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/76/76b4eebbeb7c3fa89aab90955e6f66b9
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/76/76b4eebbeb7c3fa89aab90955e6f66b9
+    projectPath: Library/Artifacts/76/76b4eebbeb7c3fa89aab90955e6f66b9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/77/775d52e4be9c926bf556e703db071bc9
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/77/775d52e4be9c926bf556e703db071bc9
+    projectPath: Library/Artifacts/77/775d52e4be9c926bf556e703db071bc9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7c/7c87436b6d2a50ad5ece270e1bde5ac6
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/7c/7c87436b6d2a50ad5ece270e1bde5ac6
+    projectPath: Library/Artifacts/7c/7c87436b6d2a50ad5ece270e1bde5ac6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7c/7cb90af664781176819616f3560e25b3
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/7c/7cb90af664781176819616f3560e25b3
+    projectPath: Library/Artifacts/7c/7cb90af664781176819616f3560e25b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7c/7cf233d278f691a77b3507ba94cc13aa
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/7c/7cf233d278f691a77b3507ba94cc13aa
+    projectPath: Library/Artifacts/7c/7cf233d278f691a77b3507ba94cc13aa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7d/7d6b7de1b1596cf87ba31c7e968c5d89
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/7d/7d6b7de1b1596cf87ba31c7e968c5d89
+    projectPath: Library/Artifacts/7d/7d6b7de1b1596cf87ba31c7e968c5d89
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7d/7d962dfc1de52c69aa7a098505ce03b3
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/7d/7d962dfc1de52c69aa7a098505ce03b3
+    projectPath: Library/Artifacts/7d/7d962dfc1de52c69aa7a098505ce03b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7f/7f20b1e5bd1a59787d6bbb64899bce42
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/7f/7f20b1e5bd1a59787d6bbb64899bce42
+    projectPath: Library/Artifacts/7f/7f20b1e5bd1a59787d6bbb64899bce42
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/7f/7fe52b37748907f2d6128d2a82b2de49
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/7f/7fe52b37748907f2d6128d2a82b2de49
+    projectPath: Library/Artifacts/7f/7fe52b37748907f2d6128d2a82b2de49
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/84/8437875fbf07a3b2bb95257810069c3b
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/84/8437875fbf07a3b2bb95257810069c3b
+    projectPath: Library/Artifacts/84/8437875fbf07a3b2bb95257810069c3b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8b/8b44174717ddbd62d83f6bbd28acfc7e
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/8b/8b44174717ddbd62d83f6bbd28acfc7e
+    projectPath: Library/Artifacts/8b/8b44174717ddbd62d83f6bbd28acfc7e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/8b/8b7816988bc540612c597c3cafd4adea
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/8b/8b7816988bc540612c597c3cafd4adea
+    projectPath: Library/Artifacts/8b/8b7816988bc540612c597c3cafd4adea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/90/90d8ce2a69499b9e5f756128c8a329f3
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/90/90d8ce2a69499b9e5f756128c8a329f3
+    projectPath: Library/Artifacts/90/90d8ce2a69499b9e5f756128c8a329f3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/92/92390bcfcfa23e154180fd4fd93de9b5
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/92/92390bcfcfa23e154180fd4fd93de9b5
+    projectPath: Library/Artifacts/92/92390bcfcfa23e154180fd4fd93de9b5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/93/9306d68ace8cda6da53557243964106d
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/93/9306d68ace8cda6da53557243964106d
+    projectPath: Library/Artifacts/93/9306d68ace8cda6da53557243964106d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/93/93384b6943d2921df4df31bd8d2c00d7
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/93/93384b6943d2921df4df31bd8d2c00d7
+    projectPath: Library/Artifacts/93/93384b6943d2921df4df31bd8d2c00d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/99/99f4a5e86e84be3755c5959a37b3607b
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/99/99f4a5e86e84be3755c5959a37b3607b
+    projectPath: Library/Artifacts/99/99f4a5e86e84be3755c5959a37b3607b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a2/a214ab99d89ff3c0475b4b5255a5d460
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/a2/a214ab99d89ff3c0475b4b5255a5d460
+    projectPath: Library/Artifacts/a2/a214ab99d89ff3c0475b4b5255a5d460
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a2/a2641b76549d3b18ef725f97b411bcd6
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/a2/a2641b76549d3b18ef725f97b411bcd6
+    projectPath: Library/Artifacts/a2/a2641b76549d3b18ef725f97b411bcd6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a2/a280ad042681b151211cc648d064e436
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/a2/a280ad042681b151211cc648d064e436
+    projectPath: Library/Artifacts/a2/a280ad042681b151211cc648d064e436
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a3/a38e68b7c23e75aec61b64e95f3e792e
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/a3/a38e68b7c23e75aec61b64e95f3e792e
+    projectPath: Library/Artifacts/a3/a38e68b7c23e75aec61b64e95f3e792e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a3/a3ece415bd92160303dccd02eacf3025
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/a3/a3ece415bd92160303dccd02eacf3025
+    projectPath: Library/Artifacts/a3/a3ece415bd92160303dccd02eacf3025
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a6/a6bf7504416c3ddff30ad5d3fbf7c6a1
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/a6/a6bf7504416c3ddff30ad5d3fbf7c6a1
+    projectPath: Library/Artifacts/a6/a6bf7504416c3ddff30ad5d3fbf7c6a1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/aa/aa719c49455ec7725698a49651892d7a
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/aa/aa719c49455ec7725698a49651892d7a
+    projectPath: Library/Artifacts/aa/aa719c49455ec7725698a49651892d7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b5/b56f4e37ea496a223f17037b69f734d3
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/b5/b56f4e37ea496a223f17037b69f734d3
+    projectPath: Library/Artifacts/b5/b56f4e37ea496a223f17037b69f734d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b5/b59eceda71b2dfbfc4f4ddf21600dc0e
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/b5/b59eceda71b2dfbfc4f4ddf21600dc0e
+    projectPath: Library/Artifacts/b5/b59eceda71b2dfbfc4f4ddf21600dc0e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b7/b7caa00a0b5c722c925c1a53f49ad4e2
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/b7/b7caa00a0b5c722c925c1a53f49ad4e2
+    projectPath: Library/Artifacts/b7/b7caa00a0b5c722c925c1a53f49ad4e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b8/b8659f090068d71e929527a7cc9b666c
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/b8/b8659f090068d71e929527a7cc9b666c
+    projectPath: Library/Artifacts/b8/b8659f090068d71e929527a7cc9b666c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ba/bae1e22fdd7a2a6e3eb7626e38bd0a93
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/ba/bae1e22fdd7a2a6e3eb7626e38bd0a93
+    projectPath: Library/Artifacts/ba/bae1e22fdd7a2a6e3eb7626e38bd0a93
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/bb/bbe26231dc898914d1bb80178d47857c
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/bb/bbe26231dc898914d1bb80178d47857c
+    projectPath: Library/Artifacts/bb/bbe26231dc898914d1bb80178d47857c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/bd/bdf56a6b8790500d4a6fbe53b9b2ac41
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/bd/bdf56a6b8790500d4a6fbe53b9b2ac41
+    projectPath: Library/Artifacts/bd/bdf56a6b8790500d4a6fbe53b9b2ac41
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/bf/bf05d0a3777d413a4a67a427eb20ec49
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/bf/bf05d0a3777d413a4a67a427eb20ec49
+    projectPath: Library/Artifacts/bf/bf05d0a3777d413a4a67a427eb20ec49
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c1/c11f6a12b3b1dc137ad165545ab19801
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/c1/c11f6a12b3b1dc137ad165545ab19801
+    projectPath: Library/Artifacts/c1/c11f6a12b3b1dc137ad165545ab19801
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c4/c4b5b7b2641cea749aa32d5907f52a99
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/c4/c4b5b7b2641cea749aa32d5907f52a99
+    projectPath: Library/Artifacts/c4/c4b5b7b2641cea749aa32d5907f52a99
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c5/c56e753fc7b775438fc1b55ce395c453
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/c5/c56e753fc7b775438fc1b55ce395c453
+    projectPath: Library/Artifacts/c5/c56e753fc7b775438fc1b55ce395c453
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c6/c6068969cf5cff2ce72a4067813886c2
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/c6/c6068969cf5cff2ce72a4067813886c2
+    projectPath: Library/Artifacts/c6/c6068969cf5cff2ce72a4067813886c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c6/c636b5fd099db6f8df616bb2d4a53234
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/c6/c636b5fd099db6f8df616bb2d4a53234
+    projectPath: Library/Artifacts/c6/c636b5fd099db6f8df616bb2d4a53234
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ca/caf2df1f139a53a5851e3246001a29c3
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/ca/caf2df1f139a53a5851e3246001a29c3
+    projectPath: Library/Artifacts/ca/caf2df1f139a53a5851e3246001a29c3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cb/cb1508b9d6c2ef5d1701b0502abed4c8
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/cb/cb1508b9d6c2ef5d1701b0502abed4c8
+    projectPath: Library/Artifacts/cb/cb1508b9d6c2ef5d1701b0502abed4c8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/cf/cfb2919a4e09a26a482892e9b89d3df6
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/cf/cfb2919a4e09a26a482892e9b89d3df6
+    projectPath: Library/Artifacts/cf/cfb2919a4e09a26a482892e9b89d3df6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/d9/d9cb61eb90e069947c4c4623f3bb18ee
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/d9/d9cb61eb90e069947c4c4623f3bb18ee
+    projectPath: Library/Artifacts/d9/d9cb61eb90e069947c4c4623f3bb18ee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/da/daf1d6380971d71f1c541b4b24503a5a
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/da/daf1d6380971d71f1c541b4b24503a5a
+    projectPath: Library/Artifacts/da/daf1d6380971d71f1c541b4b24503a5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/db/db661889eafe82f1af67ee13679327a1
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/db/db661889eafe82f1af67ee13679327a1
+    projectPath: Library/Artifacts/db/db661889eafe82f1af67ee13679327a1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/dd/dd82bdc9ff2e31c0ffb6457f829a19e7
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/dd/dd82bdc9ff2e31c0ffb6457f829a19e7
+    projectPath: Library/Artifacts/dd/dd82bdc9ff2e31c0ffb6457f829a19e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e2/e24a4a903cef7db93bd39bfa2a697ded
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/e2/e24a4a903cef7db93bd39bfa2a697ded
+    projectPath: Library/Artifacts/e2/e24a4a903cef7db93bd39bfa2a697ded
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e9/e9185d27e2b1e75e83ba839902a60d69
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/e9/e9185d27e2b1e75e83ba839902a60d69
+    projectPath: Library/Artifacts/e9/e9185d27e2b1e75e83ba839902a60d69
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/e9/e9620f30c831cbd7d25219c9b3322b3e
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/e9/e9620f30c831cbd7d25219c9b3322b3e
+    projectPath: Library/Artifacts/e9/e9620f30c831cbd7d25219c9b3322b3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/eb/eb17f34ce06b1aad4000da2f965bc030
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/eb/eb17f34ce06b1aad4000da2f965bc030
+    projectPath: Library/Artifacts/eb/eb17f34ce06b1aad4000da2f965bc030
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/ed/ede1063d334320b84d175654a52cbed8
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/ed/ede1063d334320b84d175654a52cbed8
+    projectPath: Library/Artifacts/ed/ede1063d334320b84d175654a52cbed8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f0/f06e84ce6104ecfd9914a4ceb8379aa0
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/f0/f06e84ce6104ecfd9914a4ceb8379aa0
+    projectPath: Library/Artifacts/f0/f06e84ce6104ecfd9914a4ceb8379aa0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f6/f60eed3eeeab134f07bbde14d5679b05
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/f6/f60eed3eeeab134f07bbde14d5679b05
+    projectPath: Library/Artifacts/f6/f60eed3eeeab134f07bbde14d5679b05
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f7/f7c86d6a9e007fe954d26b0147b18082
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/f7/f7c86d6a9e007fe954d26b0147b18082
+    projectPath: Library/Artifacts/f7/f7c86d6a9e007fe954d26b0147b18082
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fe/fe25bb9ba747d6cc5198b0193538f8cb
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/Artifacts/fe/fe25bb9ba747d6cc5198b0193538f8cb
+    projectPath: Library/Artifacts/fe/fe25bb9ba747d6cc5198b0193538f8cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/EditorInstance.json
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/46b7a0-mainStage.json
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Library/StateCache/Hierarchy/46b7a0-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/46b7a0-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityLockfile
+    fullPath: /Users/fannyjoseph/Documents/Cours/IMAC 2/S2/Maths/Regrowth_6_Jeanne/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
